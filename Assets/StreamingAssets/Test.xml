@@ -1,0 +1,10 @@
+<Root Root="技能">
+  <Book ID="666">
+    <Name>王世贞</Name>
+    <Author />
+  </Book>
+  <Book ID="8888">
+    <Name>罗贯中</Name>
+    <Author />
+  </Book>
+</Root>
